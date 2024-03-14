@@ -1,0 +1,23 @@
+# ninja log v5
+4	364	7245432943949782	CMakeFiles/Strings.dir/main.cpp.obj	c8c9c021cb08ed34
+364	462	7245432944896980	Strings.exe	6087982bfa3eb57a
+4	473	7245440968455315	CMakeFiles/aud_zad_1.dir/aud_zad_1.cpp.obj	b175d995b4bd6700
+406	517	7247155165083074	aud_zad_2.exe	ee7504725edfd183
+474	571	7245440969398826	aud_zad_1.exe	ecc9bd22aa80e451
+5	405	7247155164017925	CMakeFiles/aud_zad_2.dir/aud_zad_2.cpp.obj	8419e5830467f5aa
+4	397	7247163254563310	CMakeFiles/aud_zad_3.dir/aud_zad_3.cpp.obj	d0ea611fc85d12ac
+398	510	7247163255636257	aud_zad_3.exe	5a8b68302c7247c8
+4	407	7247175275116390	CMakeFiles/aud_zad_4.dir/aud_zad_4.cpp.obj	9c81cb0e609aabd2
+408	524	7247175276235442	aud_zad_4.exe	df8ee5b7c73b299
+3	384	7248751688054210	CMakeFiles/aud_zad_5.dir/aud_zad_5.cpp.obj	84ec95bd31af5004
+385	487	7248751689029877	aud_zad_5.exe	ac7df09555b29642
+3	470	7248851870972215	CMakeFiles/aud_zad_6.dir/aud_zad_6.cpp.obj	215fc1a3fcedb449
+470	581	7248851872049438	aud_zad_6.exe	2299cd5ee92919e8
+1	674	7248863097481834	CMakeFiles/aud_zad_7.dir/aud_zad_7.cpp.obj	384ceb526dca7ab1
+675	820	7248863098893064	aud_zad_7.exe	896ecdd1a8046a39
+5	628	7248863354440622	CMakeFiles/aud_zad_7.dir/aud_zad_7.cpp.obj	384ceb526dca7ab1
+629	775	7248863355859002	aud_zad_7.exe	896ecdd1a8046a39
+6	775	7248866652985834	CMakeFiles/aud_zad_7.dir/aud_zad_7.cpp.obj	384ceb526dca7ab1
+776	935	7248866654527257	aud_zad_7.exe	896ecdd1a8046a39
+7	746	7248867116243840	CMakeFiles/aud_zad_7.dir/aud_zad_7.cpp.obj	384ceb526dca7ab1
+747	895	7248867117677744	aud_zad_7.exe	896ecdd1a8046a39

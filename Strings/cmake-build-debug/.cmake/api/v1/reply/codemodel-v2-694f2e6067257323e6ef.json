@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Strings",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Strings::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Strings-Debug-630d7ec3f76e9de8a296.json",
+					"name" : "Strings",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_1-Debug-83c74a1569ee9f49e701.json",
+					"name" : "aud_zad_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_2-Debug-15dbb5b936d7331af5f8.json",
+					"name" : "aud_zad_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_3-Debug-ad73b33148cd28563148.json",
+					"name" : "aud_zad_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_4-Debug-38745bf6e76dc5bddacf.json",
+					"name" : "aud_zad_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_5-Debug-44340adb12c2c0418368.json",
+					"name" : "aud_zad_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_6-Debug-2d525813fa292d30ebad.json",
+					"name" : "aud_zad_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_7-Debug-b841f4516054172b7fa7.json",
+					"name" : "aud_zad_7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug",
+		"source" : "C:/Users/ljupc/Strukturno_2023/24/Strings"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

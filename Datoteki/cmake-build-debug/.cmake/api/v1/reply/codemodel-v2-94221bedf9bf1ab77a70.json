@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Datoteki",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Datoteki::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Datoteki-Debug-ee2bf774cffa812c530a.json",
+					"name" : "Datoteki",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ispitna_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ispitna_1-Debug-fab0b223ecb33705067e.json",
+					"name" : "Ispitna_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_1-Debug-83c74a1569ee9f49e701.json",
+					"name" : "aud_zad_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aud_zad_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aud_zad_2-Debug-15dbb5b936d7331af5f8.json",
+					"name" : "aud_zad_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ljupc/Strukturno_2023/24/Datoteki/cmake-build-debug",
+		"source" : "C:/Users/ljupc/Strukturno_2023/24/Datoteki"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

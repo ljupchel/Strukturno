@@ -1,0 +1,10 @@
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/Strings.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_1.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_2.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_3.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_4.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_5.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_6.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/aud_zad_7.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ljupc/Strukturno_2023/24/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

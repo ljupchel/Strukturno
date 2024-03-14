@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Prv_Kolokvium",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CikCak::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CikCak-Debug-8172c400c8ebcd6acc81.json",
+					"name" : "CikCak",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CikCak_Vtora::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CikCak_Vtora-Debug-3b95b7de62bde00831ec.json",
+					"name" : "CikCak_Vtora",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Delitel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Delitel-Debug-29a71ca410b29388b27f.json",
+					"name" : "Delitel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "InteresenBroj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-InteresenBroj-Debug-b1a9bc441df0c41e6c36.json",
+					"name" : "InteresenBroj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "IstiBukvi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-IstiBukvi-Debug-584e0ecea511fd3a853b.json",
+					"name" : "IstiBukvi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KvadratnaSlika::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KvadratnaSlika-Debug-576a545499f1758c837c.json",
+					"name" : "KvadratnaSlika",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MaksimalnaVrednostNa5Cifri::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MaksimalnaVrednostNa5Cifri-Debug-fa2445e01ee99c7d03a0.json",
+					"name" : "MaksimalnaVrednostNa5Cifri",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParenEkvivalenten::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParenEkvivalenten-Debug-c3bf85f9217fb4982084.json",
+					"name" : "ParenEkvivalenten",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ParoviOdBroevi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ParoviOdBroevi-Debug-7e35b3188a9f52bb1fe9.json",
+					"name" : "ParoviOdBroevi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PodredenBroj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PodredenBroj-Debug-a0f0bb67aade96f2daf4.json",
+					"name" : "PodredenBroj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Pogodok::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Pogodok-Debug-e5205b26edd7d5093fc0.json",
+					"name" : "Pogodok",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prv_Kolokvium::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prv_Kolokvium-Debug-25225294a3b3971d3a85.json",
+					"name" : "Prv_Kolokvium",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SkrieniBroevi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SkrieniBroevi-Debug-2c11c03a65de2348c1ce.json",
+					"name" : "SkrieniBroevi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TotalnoRazlicen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TotalnoRazlicen-Debug-1ec5a78cd0ee048bce1d.json",
+					"name" : "TotalnoRazlicen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZbirNaCifraSoMaksVrednost::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZbirNaCifraSoMaksVrednost-Debug-c869929fb5d043e2f464.json",
+					"name" : "ZbirNaCifraSoMaksVrednost",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-6a5cef6b2d487c0c8f8f.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ljupc/Strukturno_2023/24/Prv_Kolokvium/cmake-build-debug",
+		"source" : "C:/Users/ljupc/Strukturno_2023/24/Prv_Kolokvium"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

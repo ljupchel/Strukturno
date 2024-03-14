@@ -1,0 +1,22 @@
+cmake_minimum_required(VERSION 3.24)
+project(Prv_Kolokvium)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Prv_Kolokvium main.cpp)
+
+add_executable(InteresenBroj InteresenBroj.cpp)
+add_executable(Delitel Delitel.cpp)
+add_executable(SkrieniBroevi SkrieniBroevi.cpp)
+add_executable(ParoviOdBroevi ParoviOdBroevi.cpp)
+add_executable(ParenEkvivalenten ParenEkvivalenten.cpp)
+add_executable(TotalnoRazlicen TotalnoRazlicen.cpp)
+add_executable(Pogodok Pogodok.cpp)
+add_executable(CikCak CikCak.cpp)
+add_executable(test test.cpp)
+add_executable(MaksimalnaVrednostNa5Cifri MaksimalnaVrednostNa5Cifri.cpp)
+add_executable(KvadratnaSlika KvadratnaSlika.cpp)
+add_executable(ZbirNaCifraSoMaksVrednost ZbirNaCifraSoMaksVrednost.cpp)
+add_executable(CikCak_Vtora CikCak_Vtora.cpp)
+add_executable(PodredenBroj PodredenBroj.cpp)
+add_executable(IstiBukvi IstiBukvi.cpp)
